@@ -1,0 +1,6 @@
+[submodule "lib/lvgl"]
+	path = lib/lvgl
+	url = https://github.com/lvgl/lvgl
+[submodule "lib/RP2040DS3231RTC"]
+	path = lib/RP2040DS3231RTC
+	url = https://github.com/jondurrant/RP2040DS3231RTC
